@@ -10,6 +10,6 @@ export default defineConfig({
     },
   },
   vite: {
-    base: "/createoslm-sketch.github.io/",
+    base: "/",
   },
 });
